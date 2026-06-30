@@ -390,9 +390,6 @@ nosteam.ro###stickynote4
 ||terrapops.com^$popup
 
 ! Pop-up ads
-academiacatavencu.info##.widget-profitshare
-academiacatavencu.info##.mask
-academiacatavencu.info##.widget-popup
 ||awstaticdn.net^
 ||cloudfront.net$script,domain=playfs.com
 ||contestapp.a1.ro^
