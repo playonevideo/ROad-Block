@@ -1988,6 +1988,7 @@ kimbino.ro##.ad
 observatornews.ro##.outstream-text:has(.banner)
 observatornews.ro##.vertical-add-container
 observatornews.ro##.new-ad
+observatornews.ro##.ad-special
 
 acasatv.protv.ro##[id]:has(script)
 
@@ -2597,6 +2598,8 @@ sportulbistritean.ro##[href]:not([href*="sportulbistritean.ro"], [href^="/"], [h
 sportulbistritean.ro###sidebar > .widget_media_image.widget
 
 rds.live##.adsterra-header-desktop
+rds.live##iframe[id^="ai-ad-"]
+||shufflefell.com^
 
 webcamromania.ro##.wcr-ad
 
