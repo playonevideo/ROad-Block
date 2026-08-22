@@ -2612,4 +2612,6 @@ curierul.ro##[href]:not([href*="curierul.ro"], [href^="/"], [href*="#"]):has([sr
 opiniavl.ro##[href="https://annabella.ro"]
 opiniavl.ro##.widget:has-text(Publicitate)
 
+infocontact.ro##aside.ad-container
+
 !#include road-ubo.txt
