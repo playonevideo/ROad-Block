@@ -981,6 +981,7 @@ g4media.ro##[data-ai-debug]:has([src*=pnl])
 g4media.ro##.code-block:has(.ad-header)
 g4media.ro##.post-review:has(.author-publicitate)
 g4media.ro###tvdpl
+g4media.ro###strawberry-branding
 
 ||investigatoria.ro/*banner$image
 investigatoria.ro##.code-block
@@ -1770,6 +1771,9 @@ e-porno.ro##.global-army
 e-porno.ro##.right
 ||femeisingure.net^$doc
 ||easyaff.net/?ref$doc
+! e-porno.ro popups / popunders
+||massug.space^
+*$script,domain=e-porno.ro,3p
 
 ziaruldebacau.ro##.afiseaza-desktop
 
@@ -2602,7 +2606,6 @@ rds.live##.adsterra-header-desktop
 rds.live##iframe[id^="ai-ad-"]
 rds.live###ai-sb-wrap
 ||shufflefell.com^
-
 
 webcamromania.ro##.wcr-ad
 
