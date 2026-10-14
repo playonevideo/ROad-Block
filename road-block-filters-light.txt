@@ -2607,6 +2607,7 @@ rds.live##.adsterra-header-desktop
 rds.live##iframe[id^="ai-ad-"]
 rds.live###ai-sb-wrap
 ||shufflefell.com^
+||afders.org^
 
 webcamromania.ro##.wcr-ad
 
@@ -2623,5 +2624,7 @@ infocontact.ro##aside.ad-container
 
 financiarpress.ro##[href]:not([href*="financiarpress.ro"], [href^="/"], [href*="#"]):has([src])
 ||financiarpress.ro/wp-content/uploads/2026/07/garanta*.png$image
+
+/sitefilme\.com\/.*.js\?\d+/
 
 !#include road-ubo.txt
