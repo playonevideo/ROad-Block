@@ -1553,6 +1553,7 @@ actualitateavranceana.ro##.widget_media_image
 ||florariafocsani.ro/image/catalog/ADV/$image,third-party
 
 fileshare.ro##td[width="250"]:not(*:has([href*="fileshare.ro"]))
+fileshare.ro##[href]:not([href*="fileshare.ro"], [href^="/"])
 fileshare.ro##tr:has([rel="sponsored"])
 ||fileshare.ro/banners$image
 ||simpatie.ro^$third-party
@@ -2610,6 +2611,7 @@ rds.live###ai-sb-wrap
 ||afders.org^
 
 webcamromania.ro##.wcr-ad
+webcamromania.ro##.wcr-reclama-titlu
 
 seintamplainvalcea.ro##.code-block-4.code-block
 
@@ -2628,5 +2630,10 @@ financiarpress.ro##[href]:not([href*="financiarpress.ro"], [href^="/"], [href*="
 /sitefilme\.com\/.*.js\?\d+/
 
 smartliving.ro##[data-sl-ad-slot]
+
+voxfilmeonline.biz##.cta-banner
+
+tvron.me##.zona-ad-mare
+tvron.me##.zona-ad-player-mica
 
 !#include road-ubo.txt
