@@ -2608,9 +2608,7 @@ automotorsisport.ro##[href]:not([href*="automotorsisport.ro"], [href^="/"], [hre
 sportulbistritean.ro##[href]:not([href*="sportulbistritean.ro"], [href^="/"], [href*="#"]):has([src]):not([style])
 sportulbistritean.ro###sidebar > .widget_media_image.widget
 
-rds.live##.adsterra-header-desktop
-rds.live##iframe[id^="ai-ad-"]
-rds.live###ai-sb-wrap
+rdslive.net##.rds-banner-300
 ||shufflefell.com^
 ||afders.org^
 
