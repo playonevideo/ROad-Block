@@ -1732,6 +1732,8 @@ manager.ro###FixedDivContainer
 manager.ro###fixedDiv
 
 jamilacuisine.ro##.td-a-rec-id-custom-spot
+jamilacuisine.ro##div[class^="hb-ad"]
+jamilacuisine.ro##div[class^="gas_fallback-ad"]
 
 ziarmedical.ro##.td-a-rec-id-custom-spot
 
